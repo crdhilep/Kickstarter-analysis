@@ -15,6 +15,7 @@ Based on Launch date, I created pivot table to filter the outcomes based on cate
 
 ![Theater Outcomes by Launch Date](/resources/Theater_Outcomes_vs_launch.png)
 
+
 ### Analysis of Outcomes Based on Goals
 To analyze the Outcomes Based on Goals, I created a table to retrieve the total number of campaigns based off certain criteria. I used `COUNTIFS` formula to retrive the count based on given criteria which including a range for the desired campaign goal, the specific category, and the outcomes of these campaigns.
 
